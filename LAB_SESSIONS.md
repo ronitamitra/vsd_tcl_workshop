@@ -1,6 +1,6 @@
 # Lab Sessions 
 
-# Day 1: Introduction to TCL and VSDSYNTH Toolbox
+## Day 1: Introduction to TCL and VSDSYNTH Toolbox
 	1. Input Design file in csv format (openMSP430\_design\_details.csv)
  ![image](figures/day0/day_0_csv)
 	2. Yoysys tool installed
@@ -10,7 +10,7 @@
 	4. Opentimer Tool installed
  ![image](figures/day0/opentimer_day0.png)
  
-## VSD TOOLBOX
+### VSD TOOLBOX
 	1. Create a shellscript vsdsynth as a command
   ![image](figures/day0/vsdtoolbox_day0.png)
 	2. Create variables from input csv file into tcl script
@@ -27,7 +27,7 @@
   ![image](figures/day0/day_1_vsdsynth_2.png)
 
 
-# DAY 2: VARIABLE CREATION AND PROCESSING CONSTRAINTS FROM CSV 
+## DAY 2: VARIABLE CREATION AND PROCESSING CONSTRAINTS FROM CSV 
   ![image](figures/day2/day_2_img_1.png)
   ![image](figures/day2/day_2_img2.png)
   ![image](figures/day2/day2_img_3.png)
@@ -38,7 +38,7 @@
   ![image](figures/day2/day_2_img_6.png)
   ![image](figures/day2/day_2_img_7.png)
 
- # DAY 3: PROCESSING CLOCK AND INPUT CONSTRAINTS 
+## DAY 3: PROCESSING CLOCK AND INPUT CONSTRAINTS 
   ![image](figures/day3/day_3_img_1.png)
   ![image](figures/day3/day_3_img_2.png)
   ![image](figures/day3/day_3_img_3.png)
