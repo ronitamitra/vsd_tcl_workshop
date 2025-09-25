@@ -1,23 +1,29 @@
 # Lab Sessions 
 
 # Day 1: Introduction to TCL and VSDSYNTH Toolbox
-
+	1. Input Design file in csv format (openMSP430\_design\_details.csv)
  ![image](figures/day0/day_0_csv)
-			   Input design csv file to vsdsynth toolbox
+	2. Yoysys tool installed
  ![image](figures/day0/yosys_day0.png)
-                           Yosys Tool Installation
+	3. vsdsynth working directory from vdi.
  ![image](figures/day0/day_0_directory.png)
-			   vsdsynth working directory 
+	4. Opentimer Tool installed
  ![image](figures/day0/opentimer_day0.png)
-		           Opentimer tool installation
  
 ## VSD TOOLBOX
+	1. Create a shellscript vsdsynth as a command
   ![image](figures/day0/vsdtoolbox_day0.png)
+	2. Create variables from input csv file into tcl script
   ![image](figures/day0/day_1_vsdsynth_0.1.png)
+	3. Run ./vsdsynth in command line.
   ![image](figures/day0/day_1_vsdsynth_0.1_2.png)
+	4. Script Check if the created variables path ,files, directories exist or not.
   ![image](figures/day0/day_1_vsdsynth_0.png)
+	5. Run the script to verify 
   ![image](figures/day0/day_1_vsdsynth_1.png)
+	6. Script for - If the input file (csv) is incorrect or not provided 
   ![image](figures/day0/day_1_vsdsynth_2.1.png)
+	7. Run the script & verify. 
   ![image](figures/day0/day_1_vsdsynth_2.png)
 
 
