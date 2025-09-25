@@ -1,6 +1,6 @@
 # Lab Sessions 
 
-## Day 1: Introduction to TCL and VSDSYNTH Toolbox
+# Day 1: Introduction to TCL and VSDSYNTH Toolbox
 
  ![image](figures/day0/day_0_csv)
 			   Input design csv file to vsdsynth toolbox
@@ -23,14 +23,31 @@
 
 # DAY 2: VARIABLE CREATION AND PROCESSING CONSTRAINTS FROM CSV 
   ![image](figures/day2/day_2_img_1.png)
-  ![image](figures/day2/day_2_img_2.png)
+  ![image](figures/day2/day_2_img2.png)
   ![image](figures/day2/day2_img_3.png)
   ![image](figures/day2/day_2_image_4.png)
 
 ### Demo for computing row numbers 
   ![image](figures/day2/day_2_img_5.png)
   ![image](figures/day2/day_2_img_6.png)
-  ![image](figures/day2/day2_img_7.png)
+  ![image](figures/day2/day_2_img_7.png)
+
+ # DAY 3: PROCESSING CLOCK AND INPUT CONSTRAINTS 
+  ![image](figures/day3/day_3_img_1.png)
+  ![image](figures/day3/day_3_img_2.png)
+  ![image](figures/day3/day_3_img_3.png)
+  ![image](figures/day3/day_3_img_4.png)
+  ![image](figures/day3/day_3_img_5.png)
+  ![image](figures/day3/day_3_img_5.png)
+  ![image](figures/day3/day_3_img_6.png)
+  ![image](figures/day3/day_3_img_7.png)
+  ![image](figures/day3/day_3_img_8.png)
+  ![image](figures/day3/day_3_img_9.png)
+  ![image](figures/day3/day_3_img_10.png)
+  ![image](figures/day3/day_3_img_11.png)
+
+ 
+
 
 
 
