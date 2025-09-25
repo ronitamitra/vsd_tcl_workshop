@@ -1,4 +1,4 @@
-# TCL for VLSI — Hands‑On Flow Automation (SDC • Yosys • QOR)
+# TCL for VLSI — Hands‑On Flow Automation (SDC • Yosys • OPENTIMER)
 A practical, lab‑driven introduction to TCL scripting across the VLSI flow. Automate tool runs, generate clean SDC constraints, integrate with Yosys for synthesis, and produce reproducible, sign‑off‑style QOR reports. 
 
 ## DAY 0 : Setup for VSD Labs Using Oracle Virtualbox .
@@ -46,5 +46,6 @@ A practical, lab‑driven introduction to TCL scripting across the VLSI flow. Au
 	5. QoR generation algorithm & script to format output reports from Opentimer. 
 
 ## Workshop Session In Details : 
-	--> [THEORY_SESSIONS](https://github.com/ronitamitra/vsd_tcl_workshop/blob/87bfba6e1c61059433f0f453992340029d00e6ae/THEORY_SESSIONS.md)
-	--> [LAB_SESSIONS](https://github.com/ronitamitra/vsd_tcl_workshop/blob/2ce706f70dfcd4e647f2f2455f5ad06cfd6c02ce/LAB_SESSIONS.md)     
+- [THEORY_SESSIONS](https://github.com/ronitamitra/vsd_tcl_workshop/blob/main/THEORY_SESSIONS.md)
+- [LAB_SESSIONS](https://github.com/ronitamitra/vsd_tcl_workshop/blob/main/LAB_SESSIONS.md)
+    
