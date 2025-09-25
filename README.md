@@ -46,5 +46,5 @@ A practical, lab‑driven introduction to TCL scripting across the VLSI flow. Au
 	5. QoR generation algorithm & script to format output reports from Opentimer. 
 
 ## Workshop Session In Details : 
-	--> [THEORY_SESSIONS]()
+	--> [THEORY_SESSIONS](https://github.com/ronitamitra/vsd_tcl_workshop/blob/87bfba6e1c61059433f0f453992340029d00e6ae/THEORY_SESSIONS.md)
 	--> [LAB_SESSIONS](https://github.com/ronitamitra/vsd_tcl_workshop/blob/2ce706f70dfcd4e647f2f2455f5ad06cfd6c02ce/LAB_SESSIONS.md)     
