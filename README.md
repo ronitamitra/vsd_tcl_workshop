@@ -1,4 +1,4 @@
-# TCL for VLSI — Hands‑On Flow Automation (SDC • Yosys • QOR)
+# TCL for VLSI — Hands‑On Flow Automation (SDC • Yosys • OPENTIMER)
 A practical, lab‑driven introduction to TCL scripting across the VLSI flow. Automate tool runs, generate clean SDC constraints, integrate with Yosys for synthesis, and produce reproducible, sign‑off‑style QOR reports. 
 
 ## DAY 0 : Setup for VSD Labs Using Oracle Virtualbox .
